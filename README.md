@@ -11,6 +11,7 @@ This project attempts to build a canteen management system that analyzes food co
 ![image](https://user-images.githubusercontent.com/72935128/140618746-24722917-5800-4a1a-bbf8-d870a7641df6.png)
 
 
+
 ## Technology Used
 
 1. HTML5</br>
