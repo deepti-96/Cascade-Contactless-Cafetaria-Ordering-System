@@ -4,7 +4,7 @@
 ## Introduction
 
 The software product is named Cafeteria Ordering System. Keeping track of the cafeteria menu, attendance, and consumption is a difficult task. Manual and paper-based procedures are cumbersome and prone to errors, resulting in inaccuracy and waste of time and resources. Therefore, an automated canteen management system is essential. </br>
-This project attempts to build a canteen management system that analyzes food consumption and waste by item, offers customers a convenient mobile ordering system, and includes an AI-based attendance system. Meals for breakfast, lunch, and dinner, as well as special days and events, may all be planned. This project enables menu item monitoring, quick transactions, and the avoidance of accounting errors. Customers can also provide feedback using the feedback function, which allows the canteen manager to analyze and make necessary adjustments to the system.
+This project attempts to build a canteen management system that analyzes food consumption and waste by item, offers customers a convenient website ordering system, and includes an AI-based attendance system. Meals for breakfast, lunch, and dinner, as well as special days and events, may all be planned. This project enables menu item monitoring, quick transactions, and the avoidance of accounting errors. Customers can also provide feedback using the feedback function, which allows the canteen manager to analyze and make necessary adjustments to the system.
 </br>
 </br>
 
