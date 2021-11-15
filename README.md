@@ -33,8 +33,9 @@ The system analyses transactions and saves the generated data, which the manager
 ## File Description
 
 1. Documents - constitutes the SRS, SDD and the project pitch</br>
-2. admin - constitutes addition, mangerial, updation, and deletion of details on the admin panel including data on admin profiles, food, categories, orders, order collection delays and feedbacks</br>
-3. config - constitutes the constants being used throughout the project including the database and server connection</br>
-4. css - comprises of css files for both the customer website and the admin panel</br>
-5. partials-front - constitutes the menu and footer bars to be used throughout the customer website</br>
-6. php files - represent the various pages of the customer website</br>
+2. admin <br>
+&emsp 2.1 partials<br>
+4. config - constitutes the constants being used throughout the project including the database and server connection</br>
+5. css - comprises of css files for both the customer website and the admin panel</br>
+6. partials-front - constitutes the menu and footer bars to be used throughout the customer website</br>
+7. php files - represent the various pages of the customer website</br>
